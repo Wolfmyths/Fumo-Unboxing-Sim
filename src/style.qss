@@ -1,0 +1,140 @@
+QWidget {
+    font-family: "Mark Pro";
+    background-color: #FFA4B6;
+}
+
+QWidget#prizeFrame {
+    border: 7px solid #A155B9;
+    border-radius: 7px;
+}
+
+QScrollBar:vertical {
+    border: none;
+    background-color: #165BAA;
+    width: 14px;
+    margin: 15px 0 15px 0;
+    border-radius: 0px;
+    
+}
+
+QScrollBar::handle:vertical {
+    background-color: #A155B9;
+    min-height: 30px;
+    border-radius: 7px;
+}
+
+QScrollBar::handle:vertical:hover {
+    background-color: #FFA4B6;
+}
+
+QScrollBar::handle:vertical:pressed {
+    background-color: #F765A3;
+    min-height: 30px;
+    border-radius: 7px;
+}
+
+QScrollBar::sub-line:vertical {
+    border: none;
+    background-color: #165BAA;
+    height: 15px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    subcontrol-position: top;
+    subcontrol-origin: margin;
+}
+
+QScrollBar::add-line:vertical {
+    border: none;
+    background-color: #165BAA;
+    height: 15px;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    subcontrol-position: bottom;
+    subcontrol-origin: margin;
+}
+
+QScrollBar::up-arrow:vertical, QScrollBar::down-arrow:vertical {
+    background: none;
+}
+
+QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
+    background: none;
+}
+
+QFrame {
+    background-color: #FFA4B6;
+    border: 7px solid #A155B9;
+    border-radius: 7px;
+}
+QFrame#borderFrame {
+    border: 7px solid #A8979E;
+    border-left: none;
+    border-right: none;
+    border-radius: 12px;
+    background-color: rgba(52,47,49,0.5);
+}
+QFrame#bottomFrame {
+    background-color: #165BAA;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+QFrame#inventoryFrame {
+    background-color: transparent;
+    border: 7px solid #A155B9;
+    border-radius: 7px;
+}
+QFrame#Char-Frame {
+    border: 5px solid #0B1354;
+    border-radius: 25px;
+    background-color: #875B60;
+}
+QFrame#Char-Frame[unlocked='true'] {
+    border-color: #A155B9;
+    background-color: #C6848D;
+}
+
+QLabel {
+    border: none;
+    font-size: 24px;
+}
+QLabel[rarity="common"] {
+    background-color: #5FCCB1;
+    border-radius: 12px;
+}
+QLabel[rarity="uncommon"] {
+    background-color: #BD30BF;
+    border-radius: 12px;
+}
+QLabel[rarity="rare"] {
+    background-color: #7098B5;
+    border-radius: 12px;
+}
+QLabel[rarity="super rare"] {
+    background-color: #E7E929;
+    border-radius: 12px;
+}
+QLabel[owned="true"] {
+    font-size: 40px;
+}
+
+QPushButton {
+    background-color: #FFA4B6; 
+    font-size: 24px;
+}
+QPushButton#groupBoxButton {
+    border: 3px solid #9A449E; 
+    border-radius: 15px;
+    font-size: 18px;
+}
+QPushButton:pressed {
+    background-color: #F9D1D1;
+    color: #DEC576; 
+}
+QPushButton:checked {
+    background-color: #A155B9;
+    color: #DEC576;
+}
+
+QGroupBox#buttonGroupBox {
+    border: none;
+}

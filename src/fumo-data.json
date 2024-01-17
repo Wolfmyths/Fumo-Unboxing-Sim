@@ -1,0 +1,68 @@
+{
+    "character": [
+        {
+            "rarity": "super rare",
+            "name": "Komeiji Koishi: Deka Version 1",
+            "img": "fumoimages/komeiji-deka-version1.png",
+            "silouette": "fumoimages/komeiji-deka-version1_sil.png",
+            "amount": 0,
+            "recent": -1
+        },
+        {
+            "rarity": "rare",
+            "name": "Hakurei Reimu: Nendroid Plus",
+            "img": "fumoimages/hakurei-nendoroidPlus.png",
+            "silouette": "fumoimages/hakurei-nendoroidPlus_sil.png",
+            "amount": 0,
+            "recent": -1
+        },
+        {
+            "rarity": "rare",
+            "name": "Kirisame Marisa: Version 2",
+            "img": "fumoimages/kirisame-version2.png",
+            "silouette": "fumoimages/kirisame-version2_sil.png",
+            "amount": 0,
+            "recent": -1
+        },
+        {
+            "rarity": "uncommon",
+            "name": "Hakurei Reimu: Version 1",
+            "img": "fumoimages/hakurei-version1.png",
+            "silouette": "fumoimages/hakurei-version1_sil.png",
+            "amount": 0,
+            "recent": -1
+        },
+        {
+            "rarity": "uncommon",
+            "name": "Kirisame Marisa: Version 1",
+            "img": "fumoimages/kirisame-version1.png",
+            "silouette": "fumoimages/kirisame-version1_sil.png",
+            "amount": 0,
+            "recent": -1
+        },
+        {
+            "rarity": "common",
+            "name": "Izayoi Sakuya: Kourindou Version",
+            "img": "fumoimages/izayoi-kourindou.png",
+            "silouette": "fumoimages/izayoi-kourindou_sil.png",
+            "amount": 0,
+            "recent": -1
+        },
+        {
+            "rarity": "common",
+            "name": "Saigyouji Yuyuko: Version 1.5",
+            "img": "fumoimages/saigyouji-version15.png",
+            "silouette": "fumoimages/saigyouji-version15_sil.png",
+            "amount": 0,
+            "recent": -1
+        },
+        {
+            "rarity": "common",
+            "name": "Cirno: Version 1",
+            "img": "fumoimages/cirno-version1.png",
+            "silouette": "fumoimages/cirno-version1_sil.png",
+            "amount": 0,
+            "recent": -1
+        }
+    ]
+}
