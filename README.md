@@ -31,6 +31,16 @@ Add a dictionary to the `fumo-data.json`, here is an example of what it should l
 }
 ```
 
+### Color Pallet
+
++ #0B1354
++ #165BAA
++ #A155B9
++ #F765A3
++ #FFA4B6
++ #F9D1D1
++ #C6848D
+
 # Credits
 Fumo photos where taken and edited from 
 https://fumo.website/fumo_list.html
